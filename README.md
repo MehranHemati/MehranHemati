@@ -1,4 +1,4 @@
-# Hi, I'm Mehran Hemati 👋
+# Hi, This is Mehran 👋
 
 AI & Python developer building real-world products at the intersection of software and intelligence.
 
