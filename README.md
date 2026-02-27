@@ -31,6 +31,10 @@ AI & Python developer building real-world products at the intersection of softwa
 **[Iranian Startup Community](https://github.com/ELEPO-AI/Iranian_startup_community_website)**
 Community platform connecting Iranian innovators, founders, and professionals across 5 global branches — built with Next.js, PostgreSQL, and Docker.
 
+**Elly — Intelligent HR Assistant** *(ELEPO AI Solutions)*
+AI-powered HR platform. Features AI chat, HR tasks and so on... and role-based dynamic UI.
+
+
 ---
 
 ### Connect
