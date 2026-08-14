@@ -10,11 +10,11 @@
 
 ### 👋 About Me
 
-I'm Mehran — an AI engineer and Python developer building real-world products at the intersection of software and intelligence.
+I'm Mehran - an AI engineer and Python developer building real-world products at the intersection of software and intelligence.
 
-- 🧠 **AI-powered applications** — LLM integrations, automation, intelligent systems
-- 🌐 **Full-stack web platforms** — Next.js, TypeScript, PostgreSQL, Prisma
-- 🚀 **Community & SaaS products** — scalable, production-ready architectures
+- 🧠 **AI-powered applications** - LLM integrations, automation, intelligent systems
+- 🌐 **Full-stack web platforms** - Next.js, TypeScript, PostgreSQL, Prisma
+- 🚀 **Community & SaaS products** - scalable, production-ready architectures
 
 ---
 
@@ -39,13 +39,13 @@ I'm Mehran — an AI engineer and Python developer building real-world products 
 **🤝 Collaborations**
 
 **Iranian Startup Community**
-Community platform connecting Iranian innovators, founders, and professionals across 5 global branches — built with Next.js, PostgreSQL, and Docker.
+Community platform connecting Iranian innovators, founders, and professionals across 5 global branches - built with Next.js, PostgreSQL, and Docker.
 
 **Telegram × n8n Automation** *(client project)*
-Automation service integrating Telegram with n8n workflows for messaging and session automation — Dockerized Python backend.
+Automation service integrating Telegram with n8n workflows for messaging and session automation - Dockerized Python backend.
 
 **WhatsApp Automation Platform** *(client project)*
-WhatsApp-based automation platform handling document generation and SMS verification flows — Dockerized Python backend.
+WhatsApp-based automation platform handling document generation and SMS verification flows - Dockerized Python backend.
 
 **🧑‍💻 Solo Projects**
 
