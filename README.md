@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:06B6D4&height=200&section=header&text=Mehran%20Hemati&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20Python%20Developer&descAlignY=55&descSize=20" width="100%"/>
+# Hi, I'm Mehran Hemati 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=AI+%26+Python+Developer;Building+real-world+products+with+intelligence" alt="Typing SVG" />
+### AI Engineer and Python Developer
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ### 👋 About Me
 
-I'm Mehran — an AI & Python developer building real-world products at the intersection of software and intelligence.
+I'm Mehran — an AI engineer and Python developer building real-world products at the intersection of software and intelligence.
 
 - 🧠 **AI-powered applications** — LLM integrations, automation, intelligent systems
 - 🌐 **Full-stack web platforms** — Next.js, TypeScript, PostgreSQL, Prisma
