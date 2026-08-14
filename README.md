@@ -56,19 +56,6 @@ Record a video message today, delivered to your future self in 10 years. Next.js
 
 <div align="center">
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats-eight-alpha.vercel.app/api?username=MehranHemati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Mehran's GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MehranHemati&theme=tokyonight&hide_border=true" width="49%" alt="Mehran's GitHub streak" />
-
-<img src="https://github-readme-stats-eight-alpha.vercel.app/api/top-langs/?username=MehranHemati&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Top languages" />
-
-</div>
-
----
-
-<div align="center">
-
 ### 🔗 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Mehranhemati)
